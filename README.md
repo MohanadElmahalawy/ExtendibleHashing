@@ -1,6 +1,6 @@
 # Extendible Hashing Implementation
 
-A console-based application demonstrating the implementation of Extendible Hashing, an efficient dynamic hashing technique for database indexing and other storage solutions. Developed in C++ with Object-Oriented Programming and Data Structures.
+A console-based application demonstrating the implementation of Extendible Hashing, an efficient dynamic hashing technique for database indexing and other storage solutions. Developed in C++ with Data Structures.
 
 ## Features
 - Implements the Extendible Hashing algorithm to dynamically manage hash tables.
